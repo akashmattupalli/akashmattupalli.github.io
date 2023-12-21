@@ -67,6 +67,7 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
+
 github_username: akashmattupalli
 gitlab_username: # your GitLab user name
 x_username: # your X handle

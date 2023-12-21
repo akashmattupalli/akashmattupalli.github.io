@@ -1,7 +1,7 @@
 ---
 layout: page
 title: MyRIO Sheepdog Project
-description: Coded using LabVIEW, the robot does line-following and herding using a myRIO microcontroller and PI controllers.
+description: Coded using LabVIEW, the robot does line-following and herding using a myRIO microcontroller and PI controllers
 img: assets/img/sheepdog1.jpeg
 importance: 1
 category: courses
@@ -26,7 +26,7 @@ As part of the final project in _ME 375: Measurement and Control Systems II_, we
 
 <iframe width="420" height="315" src="https://youtube.com/embed/6c4U_io_qw4?si=DDrcKDmR8PRDzyCA" frameborder="0" allowfullscreen> </iframe>
 
-The robot's operations were coded in LabVIEW using _Control & Simulation Loops_, with PI controllers to reduce the error between the desired and the measured wheel velocities. The operations within the line-following and herding behaviors were organized and coded using nested finite state machines. Our robot successfully exhibited the two behaviors; our final report can be found below.  
+The robot's operations were coded in LabVIEW using _Control & Simulation Loops_, with PI controllers to reduce the error between the desired and the measured wheel velocities. The operations within the line-following and herding behaviors were organized and coded using nested finite state machines. Our robot successfully exhibited the two behaviors and achieved the fifth fastest time in finishing two laps around the track. Our final report can be found below.
 
 
 <iframe src="https://drive.google.com/file/d/15GJiOa5knQVytkxpyD7wyg9mFoFJafh9/preview" width="640" height="480" allow="autoplay"></iframe>

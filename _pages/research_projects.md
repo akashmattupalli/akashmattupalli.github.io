@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Engineering Projects
-permalink: /EngineeringProjects/
+title: Research Projects
+permalink: /ResearchProjects/
 description:
 nav: true
-nav_order: 1
-display_categories: [courses, extracurricular]
+nav_order: 2
+display_categories: [labs]
 horizontal: false
 ---
 
