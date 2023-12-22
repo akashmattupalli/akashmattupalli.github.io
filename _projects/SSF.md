@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Who am I as an Engineer? An Indian or an American?
-description: Conducting a comparative literature review of engineering styles and philosophies 
+title: Slow Sand Filters in Mwenezi, Zimbabwe
+description: Creating engineering education resources on water filtration techniques and coordinating resources to build slow sand filters
 img: 
-importance: 2
+importance: 3
 category: labs
 ---
 **Acquired skills:** Literature Review, Self-initiated research, Academic writing
