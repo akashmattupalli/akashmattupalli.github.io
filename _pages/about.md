@@ -20,6 +20,6 @@ Hi! My name is Akash and I am currently a senior in Mechanical Engineering at Pu
 
 My values in engineering are rooted in human-centered design, with special interests in **control systems, mechatronics** and **simulation programs**. 
 
-My perspectives in engineering derive from my intercultural experiences of living in India :india:, Saudi Arabia :saudi_arabia:, Singapore :singapore:, United Kingdom :uk:, United States :us:, and Spain :es:. 
+My perspectives in engineering derive from my intercultural experiences of living in India, Saudi Arabia, Singapore, United Kingdom, United States, and Spain. 
 
 I also love to read and to write in my free time. I have written poems, short stories, and essays, some of which are published on print or online. 
