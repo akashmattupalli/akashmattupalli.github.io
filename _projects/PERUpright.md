@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Manufacturing Upright Brackets (CNC Milling)
-description: 
+description: Using CNC 5-Axis Milling and Fusion 360 to manufacture upright brackets for the wheel hub assemblies
 img: assets/img/per1.jpeg
 importance: 1
 category: extracurricular

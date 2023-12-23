@@ -2,19 +2,28 @@
 layout: page
 title: Slow Sand Filters in Mwenezi, Zimbabwe
 description: Creating engineering education resources on water filtration techniques and coordinating resources to build slow sand filters
-img: 
+img: assets/img/ssf1.png
 importance: 3
 category: labs
 ---
-**Acquired skills:** Literature Review, Self-initiated research, Academic writing
+**Acquired skills:** Project management, curriculum creation, frugal engineering
 
-As an undergraduate researcher for the DeBoer Lab, I had the opportunity to lead research on engineering styles and philosophies by conducting a comparative literature review between Indian ethno-engineering and American engineering to identify their similarities and differences. This research was part of a wider autoethnography approach to deeply comprehend and analyze my experiences of studying in colonial and postcolonial countries, unpacking the power structures of the curricula I was exposed to. The aim of the autoethnographic research was to identify inequities in current engineering education, advocating for diverse perspectives. 
+The DeBoer Lab, the engineering education lab that I worked for, uses a specially developed model called _Localized Engineering in Displacement (LED)_ to work on long-term implementation of solutions in the communities that we collaborate with. The curricula designed are contextualized to local assets and cultures. 
 
-The comparative literature review was motivated by my personal experiences as an international student of Indian origin studying at an American university, where I had to reconcile between the differences of ethno-engineering examples that I witnessed growing up, with the engineering examples that I was learning at Purdue. I also noticed the lack of representation of diverse engineering methodologies within my engineering education. 
+One of the projects that we worked in was in collaboration Plan USA and all-girls schools in Mwenezi, Zimbabwe, to address local water insecurity issues. In this project, I created several lessons for local teachers to teach about different water filtration techniques. We worked with a Purdue start-up called Maji Safi and its cofounders Dr. John Maiyo and Dr. Chad Jafvert, a professor of Civil Engineering at Purdue. We utilized their expertise on slow-sand filters to teach the girl students on the functionality and the construction of these filters.
 
-The examples of the two engineering styles derive from the literature review and my personal experiences. Given the lack of concrete definitions of "ethno-engineering", several inclusion and exclusion terms were used to identify academic papers that illustrated examples of Indian ethno-engineering. Several rounds of inductive coding was performed to analyze the collated data, distilling to categories and themes of each engineering style. 
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/ssf1.png" title="example image" class="img-fluid rounded z-depth-1" width = "350"%}
+    </div>
+</div>
+<div class="caption">
+    Diagram of Slow Sand Filters, designed by Dr. Chad Jafvert at Purdue
+</div>
 
-To get to know more about the literature review and my findings, please find my writing below: 
+After creating lessons on the functionality of the slow sand filters, I worked closely with Dr. Jafvert to create lessons on how to construct them. We also added an extra step of alum flocculation to get rid of inorganic compounds since groundwater was the students' primary water source. There were several steps involved in this process: 
+* Collating an inventory list for the filters and flocculation process, and coordinating with local liasons to acquire them
+* Recording videos of the assembly of the slow sand filters 
+* Coordinating with Dr. Jafvert on manufacturing and transporting Maji Safi's proprietary porous plate kits for the slow sand filters
 
-<iframe src="https://drive.google.com/file/d/18Kx1mQmZqo0hP8sUCa9fCTXv_sfGGX-b/preview" width="640" height="480" allow="autoplay"></iframe>
-
+By the end of the project, 240 girl students were able to construct 8 slow sand filters. These filters were very advantageous, as they require little mechanical power, are low maintenance, easy to assemble, and greatly improve the quality of the water by reducing its turbidity and organic contaminants. 
