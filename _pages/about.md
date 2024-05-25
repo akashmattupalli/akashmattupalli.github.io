@@ -6,7 +6,7 @@ subtitle:
 
 profile:
   align: right
-  image: AkashMattupalli_Headshot-min.jpg
+  image: AkashMattupalli_Headshot.jpg
   image_circular: false # crops the image to make it circular
   more_info: 
 
@@ -16,7 +16,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi! My name is Akash and I am currently a senior in Mechanical Engineering at Purdue University. I have conducted research in engineering education and computational fluid dynamics, and have worked as a controls engineering intern at Remora, a carbon capture start-up in Michigan. 
+Hi! My name is Akash and I recently graduated with a Bachelor of Science in Mechanical Engineering at Purdue University. I have conducted research in engineering education, computational analysis applications in fluids, and reverse osmosis. I have also worked as a controls engineering intern at Remora, a carbon capture start-up in Michigan. I will be working as an Equipment Engineer with TSMC in Phoenix, AZ.
 
 My values in engineering are rooted in human-centered design, with special interests in **control systems, mechatronics** and **simulation programs**. 
 
