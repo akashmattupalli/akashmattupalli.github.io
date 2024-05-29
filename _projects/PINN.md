@@ -36,4 +36,4 @@ Most of the work went into fine-tuning the hyperparameters of the neural network
 An example of a Google Colab code can be found below:
 <script src="https://gist.github.com/akashmattupalli/fc9899890edeb4c811881421de3578d3.js"></script>
 
-I will be continuing my research with Dr. Ivan Christov next semester. My work will be focusing on fine-tuning the code for multiple shear rates further, before using Bayesian Inference model selection to perform uncertainty distribution analysis on the simulated results.
+I continued my research with Dr. Ivan Christov in Spring 2024, with my work focusing on using Bayesian Inference and Modeling to perform uncertainty distribution analysis for the parameters in the rheological models. 

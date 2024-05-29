@@ -3,7 +3,7 @@ layout: page
 title: Slow Sand Filters in Mwenezi, Zimbabwe
 description: Creating engineering education resources on water filtration techniques and coordinating resources to build slow sand filters
 img: assets/img/ssf1.png
-importance: 3
+importance: 4
 category: labs
 ---
 **Acquired skills:** Project management, curriculum creation, frugal engineering

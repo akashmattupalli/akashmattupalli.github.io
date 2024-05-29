@@ -3,7 +3,7 @@ layout: page
 title: Who am I as an Engineer? An Indian or an American?
 description: Conducting a comparative literature review of engineering styles and philosophies 
 img: 
-importance: 2
+importance: 3
 category: labs
 ---
 **Acquired skills:** Literature Review, Self-initiated research, Academic writing
